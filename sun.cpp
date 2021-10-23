@@ -8,5 +8,6 @@ int main()
     cout<<"Enter 2 no.s:";
     cin>>s>>r;
     cout<<"sum of 2 no.s is:"<<s+r;
+    cout<<"Just tried to modify";
     return 0;
 }
